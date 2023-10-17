@@ -1,6 +1,6 @@
 # `alexlancaster/zenodraft-action@0.10.1` TEMP FORK - DO NOT USE
 
-Automates drafting depositions on Zenodo or Zenodo Sandbox. Temporary fork of https://github.com/zenodraft/action/
+Automates drafting depositions on Zenodo or Zenodo Sandbox. Temporary fork of https://github.com/zenodraft/action/ used for debugging pull requests to main repo.
 
 ## Features
 
