@@ -1,8 +1,8 @@
-name: zenodraft
+name: alexlancaster-zenodraft
 branding:
   icon: upload-cloud
   color: yellow
-description: Draft a deposition on Zenodo or Zenodo Sandbox
+description: Temporary fork of draft a deposition on Zenodo or Zenodo Sandbox
 inputs:
   collection:
     description: Create the new deposition as a new version in this collection.
