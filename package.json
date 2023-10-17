@@ -1,7 +1,7 @@
 {
-  "author": "Jurriaan H. Spaaks",
+  "author": "Jurriaan H. Spaaks & Alex Lancaster",
   "bugs": {
-    "url": "https://github.com/zenodraft/action/issues"
+    "url": "https://github.com/alexlancaster/zenodraft-action/issues"
   },
   "dependencies": {
     "@actions/core": "^1.4.0",
@@ -12,8 +12,8 @@
     "typescript": "^4.3.2",
     "zenodraft": "0.10.0"
   },
-  "description": "GitHub action to automate making draft depositions on Zenodo or Zenodo Sandbox",
-  "homepage": "https://github.com/zenodraft/action#readme",
+  "description": "Temporary fork of GitHub action to automate making draft depositions on Zenodo or Zenodo Sandbox",
+  "homepage": "https://github.com/alexlancaster/zenodraft-action#readme",
   "keywords": [
     "zenodo",
     "releases",
@@ -26,7 +26,7 @@
   "name": "action",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zenodraft/action.git"
+    "url": "git+https://github.com/alexlancaster/zenodraft-action.git"
   },
   "scripts": {
     "all": "npm run clean && npm run transpile",
